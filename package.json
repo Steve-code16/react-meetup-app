@@ -2,7 +2,7 @@
   "name": "react-meetup-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://steve-code16.github.io/react-meetup-app",
+  "homepage": "https://Steve-code16.github.io/react-meetup-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
